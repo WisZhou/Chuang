@@ -49,9 +49,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
-*.log
-
 # Flask stuff:
 instance/
 .webassets-cache
